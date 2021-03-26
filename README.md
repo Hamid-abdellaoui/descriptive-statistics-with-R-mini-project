@@ -14,4 +14,4 @@ Il s'asgit d'un mini projet dans le cadre de l'evaluation 'statsitique descripti
 
 
 Voici le rapport finale avec des visualisations et leurs interprétations: 
-![ici](https://hamid-abdellaoui.github.io/descriptive-statistics-with-R-mini-project)
+[cliquer ici](https://hamid-abdellaoui.github.io/descriptive-statistics-with-R-mini-project)
